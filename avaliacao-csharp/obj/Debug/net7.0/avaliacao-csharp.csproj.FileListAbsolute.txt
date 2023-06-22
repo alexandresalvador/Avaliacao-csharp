@@ -1,0 +1,15 @@
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\bin\Debug\net7.0\avaliacao-csharp.exe
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\bin\Debug\net7.0\avaliacao-csharp.deps.json
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\bin\Debug\net7.0\avaliacao-csharp.runtimeconfig.json
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\bin\Debug\net7.0\avaliacao-csharp.dll
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\bin\Debug\net7.0\avaliacao-csharp.pdb
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.csproj.AssemblyReference.cache
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.AssemblyInfoInputs.cache
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.AssemblyInfo.cs
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.dll
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\refint\avaliacao-csharp.dll
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.pdb
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\avaliacao-csharp.genruntimeconfig.cache
+C:\Users\alexandre.salvador\Desktop\c-sharp\avaliacao-csharp\obj\Debug\net7.0\ref\avaliacao-csharp.dll
