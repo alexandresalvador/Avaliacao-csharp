@@ -25,22 +25,22 @@ namespace Programa
                 {
                     case 1:
                         {
-                            // Views.TarefaView.AddTarefa();
+                            Views.TarefaView.AddTarefa();
                             break;
                         }
                     case 2:
                         {
-                            // Views.TarefaView.ListTarefas();
+                            Views.TarefaView.ListTarefas();
                             break;
                         }
                     case 3:
                         {
-                            // Views.TarefaView.UpdateTarefa();
+                            Views.TarefaView.UpdateTarefa();
                             break;
                         }
                     case 4:
                         {
-                            // Views.TarefaView.DeleteTarefa();
+                            Views.TarefaView.DeleteTarefa();
                             break;
                         }
                     case 5:
